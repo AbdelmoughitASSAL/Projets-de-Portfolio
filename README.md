@@ -22,13 +22,13 @@ L’objectif principal de ce système est de déterminer la fraction optimale de
   - MetaTrader 5 (MT5) installé et configuré.
   - Bibliothèques Python : `MetaTrader5`, `pandas`, `matplotlib`, `datetime`, `scikit-learn`.
 
-- **Code** - [Trading Automatisé - Money Management](https://github.com/AbdelmoughitASSAL/Trading-Automatise-Money-Management/blob/main/Trading%20Automatis%C3%A9%20-%20Cas%20de%20Money%20Management%20(Fraction%20de%20Kelly).ipynb)
+**Code** - [Trading Automatisé - Money Management](https://github.com/AbdelmoughitASSAL/Trading-Automatise-Money-Management/blob/main/Trading%20Automatis%C3%A9%20-%20Cas%20de%20Money%20Management%20(Fraction%20de%20Kelly).ipynb)
 
-  - **Compétences**
+**Compétences**
   
   *Money Management ,Trading Algorithmique , Prétraitement des données, Analyse de données , Visualisation des données*
     
-  - **Technologies**
+**Technologies**
 
   *Python ,Pandas ,NumPy, Matplotlib, scikit-learn – MinMaxScaler*
 
